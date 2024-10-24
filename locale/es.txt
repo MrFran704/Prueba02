@@ -1,0 +1,59 @@
+#: locale=es
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_A550984C_B04E_5887_41E2_C94AB506F768.text = Render
+HotspotPanoramaOverlayTextImage_A3C3F057_B042_E882_41D2_7A1BC4FD99F1.text = Video
+
+## Media
+
+### Imágen
+imlevel_A6AD6C34_B0C1_F887_41CC_E4E8C11A2E65.url = media/panorama_6CEC9876_6730_41CC_41C3_2818011844F7_HS_vgxr6bht_es.png
+imlevel_A6AD6C2B_B0C1_F882_41E3_3F2BC5EB8307.url = media/panorama_6CEC9876_6730_41CC_41C3_2818011844F7_HS_xjdx5gqy_es.png
+
+### Subtítulos de Video
+
+### Título
+video_714B3B07_6750_474B_41CB_7AB7B8A8666E.label = 0812
+panorama_A0D57F86_B042_D783_41E5_F2515A2A6FFD.label = Monoambiente_Claro_Cuadrado0620
+panorama_6C4EFC7E_6731_C1BD_41D7_A403DCF81C70.label = Monoambiente_Cocina
+panorama_6CEC9876_6730_41CC_41C3_2818011844F7.label = Monoambiente_Dormitorio
+panorama_6C0317BA_6730_CF45_41D9_A338EF528BE7.label = Monoambiente_Living
+panorama_6C59121D_6731_C17C_41D2_B7DFB20EF14F.label = Monoambiente_SIP
+album_A6A3CFC6_B40A_84BC_419E_E285DA422336_0.label = Sierra
+album_7E479832_67D0_C144_41BC_1FB2484D9B99_0.label = Sierra1
+album_A6A3CFC6_B40A_84BC_419E_E285DA422336_1.label = Sierra1
+album_A6A3CFC6_B40A_84BC_419E_E285DA422336_2.label = Sierra2
+video_A4FAD896_B415_8CDF_41A7_4CD3BBFDB497.label = TOP
+panorama_AB8E4110_A0F5_14BF_41C2_A3D8BBBED124.label = untitled
+album_7E479832_67D0_C144_41BC_1FB2484D9B99_2.label = untitled15
+album_7E479832_67D0_C144_41BC_1FB2484D9B99_3.label = untitled16
+album_7E479832_67D0_C144_41BC_1FB2484D9B99_4.label = untitled20
+album_7E479832_67D0_C144_41BC_1FB2484D9B99_1.label = untitled3
+album_A6A3CFC6_B40A_84BC_419E_E285DA422336.label = Álbum de Fotos Sierra
+album_7E479832_67D0_C144_41BC_1FB2484D9B99.label = Álbum de Fotos Sierra1
+
+### Video
+videolevel_AF53C929_BF7B_90AC_41D3_17F06EBD1F30.url = media/video_714B3B07_6750_474B_41CB_7AB7B8A8666E_es.mp4
+videolevel_AF53C929_BF7B_90AC_41D3_17F06EBD1F30.posterURL = media/video_714B3B07_6750_474B_41CB_7AB7B8A8666E_poster_es.jpg
+videolevel_AF5A7A75_BF7B_90A4_41A3_87DFC202D0DE.url = media/video_A4FAD896_B415_8CDF_41A7_4CD3BBFDB497_es.mp4
+videolevel_AF5A7A75_BF7B_90A4_41A3_87DFC202D0DE.posterURL = media/video_A4FAD896_B415_8CDF_41A7_4CD3BBFDB497_poster_es.jpg
+
+## Skin
+
+### Imágen
+Image_75E39CAE_67A1_C980_41C7_70BD8F593193.url = skin/Image_75E39CAE_67A1_C980_41C7_70BD8F593193_es.png
+Image_75E39CAE_67A1_C980_41C7_70BD8F593193_mobile.url = skin/Image_75E39CAE_67A1_C980_41C7_70BD8F593193_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 3
+
+## Ventana
+
+### Cuerpo
+htmlText_695082D6_67A3_F983_41D1_E4FAAC47EED4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>asdasdasdasdasdasd</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">asdadasdasd</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">asdaasdas</SPAN></DIV></BODY></HTML></div>
